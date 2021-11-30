@@ -1,4 +1,4 @@
-# leetcode-bank
+# LeetCode-Problem-Solving-Techniques
 This repository stores some LeetCode questions of common patterns/techniques used to problem-solve.
 
 ### Current LeetCode problems for this type of problem
